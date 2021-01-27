@@ -1,6 +1,8 @@
 # Citibike Bikesharing Usage Visualizations 
 
 ## Overview
+I've decided to launch a bikesharing company in Des Moines, IA. After having such a pleseant experience in New York City using the bike share system Citi Bike, I decided to create some visualizations from available Citi Bike Data to better understand how they work.
+
 
 Link to the tableau story: 
 
