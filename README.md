@@ -27,6 +27,10 @@ With this visualization we see the previously identified gender-based observatio
 
 ![viz5](https://github.com/watsonlarry/bikesharing/blob/main/Resources/viz5.png)
 
+In this last vizualization we see a pretty clear picture that annual subscription users are riding more often than daily subscribers throughout week.
+
 ## Conclusion
 
-An area to explore is the number of tourists using the service in NYC. It's important to note the impact of tourism on the service since the idea is to transplant a similar business to Des Moines, IA--a smaller city with far fewer tourists.
+1. An area to explore is the number of tourists using the service in NYC. It's important to note the impact of tourism on the service since the idea is to transplant a similar business to Des Moines, IA--a smaller city with far fewer tourists. We've already identified the annual pass riders are riding more often than daily pass users, and it's probably safe to assume annual users are NYC residents, but we can't make that distinction for daily pass riders. We should also pull hourly riders into the vizualization to get a clearer picture of all the riders.
+
+2. I would also love to find a way to visualize the average trip length. In terms of square footage, Manhattan is significantly smaller than Des Moines (22.82 mi² 90.66 mi² (though, this is the whole Des Moines metro-area, couldn't find stats on downtown's area)) and much more dense. It's possible that people in NYC are making much shorter trips than would be possible in Des Moines. 
