@@ -19,7 +19,11 @@ With the first two generated graphs we can pull info about two valuable sections
 
 ![viz3](https://github.com/watsonlarry/bikesharing/blob/main/Resources/viz3.png)
 
+The heat map successfully vizualizes the most popular times of day for bike rentals throughout the week. The hot times follow two different patterns, one for the weekdays and one for the weekends. During the weekdays 6-9am and 5-7pm are popular, suggesting a pre/post 9-5 work usage. On the weekends is concentrated in the middle of the day from 10am-7pm.
+
 ![viz4](https://github.com/watsonlarry/bikesharing/blob/main/Resources/viz4.png)
+
+With this visualization we see the previously identified gender-based observations repeated. While there are a greater number of males using the service the weekday/weekend usage trends are the same regardless of gender. 
 
 ![viz5](https://github.com/watsonlarry/bikesharing/blob/main/Resources/viz5.png)
 
