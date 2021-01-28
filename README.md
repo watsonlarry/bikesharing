@@ -10,12 +10,17 @@ Link to the tableau story:
 
 ### Results
 
+![start](https://github.com/watsonlarry/bikesharing/blob/main/Resources/start.png)
+
+![stop](https://github.com/watsonlarry/bikesharing/blob/main/Resources/stop.png)
+
+First, we want to establish the primary geographicaal area of use. Citi Bike bikes can be found through out all the burroughs in central NYC but with theses maps we can seee that a majority of the trips are stated and ended in south Manhattan. 
 
 ![viz1](https://github.com/watsonlarry/bikesharing/blob/main/Resources/viz1.png)
 
 ![viz2](https://github.com/watsonlarry/bikesharing/blob/main/Resources/viz2.png)
 
-With the first two generated graphs we can pull info about two valuable sections of data: users ride duration and usage by gender.  Both graphs tell the same story about average ride duration. Looking at bike checkout times for 24-hour pass NYC users, we see that most riders are using their bikes for about 5-6 hours. Also, notice the sharp incline from 1-5 hour duration and the very gradual decline from 5-24 hour duration. The second graph plots the same information but makes a distiction between male, female, and unknown gender usage. The graphs for men and women largely follow the same usage path, though there is a key distiction: there are about 3x more men using the service. The unknown gender does not register much information on the graph.
+With these generated graphs we can pull info about two valuable sections of data: users ride duration and usage by gender.  Both graphs tell the same story about average ride duration. Looking at bike checkout times for 24-hour pass NYC users, we see that most riders are using their bikes for about 5-6 hours. Also, notice the sharp incline from 1-5 hour duration and the very gradual decline from 5-24 hour duration. The second graph plots the same information but makes a distiction between male, female, and unknown gender usage. The graphs for men and women largely follow the same usage path, though there is a key distiction: there are about 3x more men using the service. The unknown gender does not register much information on the graph.
 
 ![viz3](https://github.com/watsonlarry/bikesharing/blob/main/Resources/viz3.png)
 
