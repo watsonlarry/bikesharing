@@ -36,6 +36,18 @@ In this last vizualization we see a pretty clear picture that annual subscriptio
 
 ## Conclusion
 
+With our visualizations, we're ready to present our findings in a coherent and elegant form to any potential invesetors. But what have we learned from these visualizations? 
+
+- The product is used most frequently by the annual subscriber group. 
+- The product is used more by men than women at a ratio of 3-to-1. 
+- The product is used heavily at rush-hour times.
+- The product is used most heavily for 4-7 hours per user per day.
+
+Is this enough information to put together a sure-fire pitch for a Des Moines bije-share service? Perhaps. Let's draw up a picture of the average NYC user, as derived from our data: Male, commutes to work daily. Not as detailed a profile as we would like, no? Are there men that are commuting to work daily in Des Moines? Almost certainly. But there are a lot of differences between NYC and Des Moines, and we'll have to figure out if the differennces between cities, and the people who live in them, will affect the success of the transplanted business model.
+
+
+Proposal for future vizualizations:
+
 1. An area to explore is the number of tourists using the service in NYC. It's important to note the impact of tourism on the service since the idea is to transplant a similar business to Des Moines, IA--a smaller city with far fewer tourists. We've already identified the annual pass riders are riding more often than daily pass users, and it's probably safe to assume annual users are NYC residents, but we can't make that distinction for daily pass riders. We should also pull hourly riders into the vizualization to get a clearer picture of all the riders.
 
 2. I would also love to find a way to visualize the average trip length. In terms of square footage, Manhattan is significantly smaller than Des Moines (22.82 mi² 90.66 mi² (though, this is the whole Des Moines metro-area, couldn't find stats on downtown's area)) and much more dense. It's possible that people in NYC are making much shorter trips than would be possible in Des Moines. 
